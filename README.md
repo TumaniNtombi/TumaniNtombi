@@ -10,8 +10,6 @@
 ---
 ✨ Always learning, building, and sharing.
 
-<!--
-
 ## 📚 AWS re/Start Projects & Notes
 My repository contains detailed notes and hands-on labs from the **AWS re/Start Program**, covering:
 
