@@ -27,7 +27,7 @@ My repository contains detailed notes and hands-on labs from the **AWS re/Start 
 - [03_Databases 🗄️](https://github.com/TumaniNtombi/AWS---re-Start-Program/tree/main/Databases)  
 - [04_Networking 🌐](https://github.com/TumaniNtombi/AWS---re-Start-Program/tree/main/Networking)  
 - [05_Security 🔒](https://github.com/TumaniNtombi/AWS---re-Start-Program/tree/main/Security)  
-- [06_Monitoring And Management 📊](https://github.com/TumaniNtombi/AWS---re-Start-Programo/tree/main/Monitoring_And_Management)  
+- [06_Monitoring And Management 📊](https://github.com/TumaniNtombi/AWS---re-Start-Programo/tree/main/MonitoringAndManagement)  
 - [07_DevOps & Automation 🤖](https://github.com/TumaniNtombi/AWS---re-Start-Program/tree/main/DevOps_Automation)  
 - [08_Hands-on Labs 🧪](https://github.com/TumaniNtombi/AWS---re-Start-Program/tree/main/Hands-on_Labs) 
 
