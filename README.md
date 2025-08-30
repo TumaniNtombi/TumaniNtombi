@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Tumani
 
-💡 Learning my way through the Cloud, DevOps☁️ + UX design 🎨 
-🧃 Founder of O Shots (Vitamin C & Ginger Booster shots)  
+💡 Learning my way through the Cloud, DevOps☁️ + UX design 🎨  
 🌱 Project management enthusiast 
+🧃 Founder of O Shots (Vitamin C & Ginger Booster shots) 
 🌍 Building smart, sustainable solutions for Africa  
 👯 I’m looking to collaborate on Cloud Architecture, DevOps Engineering and UX Design
 
