@@ -22,14 +22,14 @@ My repository contains detailed notes and hands-on labs from the **AWS re/Start 
 - Security  
 
 ### 🔗 Explore Folders
-- [01_Compute ⚡](https://github.com/TumaniModimo/AWS-Repo/tree/main/01_Compute)  
-- [02_Storage 💾](https://github.com/TumaniModimo/AWS-Repo/tree/main/02_Storage)  
-- [03_Databases 🗄️](https://github.com/TumaniModimo/AWS-Repo/tree/main/03_Databases)  
-- [04_Networking 🌐](https://github.com/TumaniModimo/AWS-Repo/tree/main/04_Networking)  
-- [05_Security 🔒](https://github.com/TumaniModimo/AWS-Repo/tree/main/05_Security)  
-- [06_Monitoring & Management 📊](https://github.com/TumaniModimo/AWS-Repo/tree/main/06_Monitoring_Management)  
-- [07_DevOps & Automation 🤖](https://github.com/TumaniModimo/AWS-Repo/tree/main/07_DevOps_Automation)  
-- [08_Labs 🧪](https://github.com/TumaniModimo/AWS-Repo/tree/main/08_Labs) 
+- [01_Compute ⚡](https://github.com/TumaniModimo/AWS-Repo/tree/main/Compute)  
+- [02_Storage 💾](https://github.com/TumaniModimo/AWS-Repo/tree/main/Storage)  
+- [03_Databases 🗄️](https://github.com/TumaniModimo/AWS-Repo/tree/main/Databases)  
+- [04_Networking 🌐](https://github.com/TumaniModimo/AWS-Repo/tree/main/Networking)  
+- [05_Security 🔒](https://github.com/TumaniModimo/AWS-Repo/tree/main/Security)  
+- [06_Monitoring & Management 📊](https://github.com/TumaniModimo/AWS-Repo/tree/main/Monitoring_Management)  
+- [07_DevOps & Automation 🤖](https://github.com/TumaniModimo/AWS-Repo/tree/main/DevOps_Automation)  
+- [08_Labs 🧪](https://github.com/TumaniModimo/AWS-Repo/tree/main/Labs) 
 
 
 ## 📊 GitHub Stats
