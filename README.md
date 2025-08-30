@@ -5,7 +5,7 @@
 🧃 Founder of O Shots (Vitamin C & Ginger Booster shots)  
 🌍 Building smart, sustainable solutions for Africa  
 👯 I’m looking to collaborate on Cloud Architecture, DevOps Engineering and UX Design
-📫 How to reach me: You can email me at ntombimodimo@gmail.com
+📫 How to reach me:ntombimodimo@gmail.com
 
 ---
 ✨ Always learning, building, and sharing.
