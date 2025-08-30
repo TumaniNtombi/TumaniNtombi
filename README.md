@@ -3,7 +3,7 @@
 💡 Learning my way through the Cloud, DevOps☁️ + UX design 🎨  
 🌱 Project management enthusiast 
 🧃 Founder of O Shots (Vitamin C & Gingershots) 
-🌍 Building smart, sustainable solutions for Africa  
+        🌍 Building smart, sustainable solutions for Africa  
 👯 I’m looking to collaborate on Cloud Architecture, DevOps Engineering and UX Design
 
  📫 ntombimodimo@gmail.com
