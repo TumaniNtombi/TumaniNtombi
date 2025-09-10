@@ -13,14 +13,7 @@
 
 ## 📚 AWS re/Start Projects & Notes
 My repository contains detailed notes and hands-on labs from the **AWS re/Start Program**, covering:
-
-- Cloud fundamentals  
-- Compute  
-- Storage services  
-- Databases  
-- Networking  
-- Security  
-
+  
 ### 🔗 Explore Folders
 - [01_Compute ⚡](https://github.com/TumaniNtombi/AWS---re-Start-Program/tree/main/Compute)
 - [02_Storage 💾](https://github.com/TumaniNtombi/AWS---re-Start-Program/tree/main/Storage)  
